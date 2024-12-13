@@ -28,13 +28,13 @@ metadata:
     cardType: summary_large_image
 
 i18n:
-  language: en
+  language: ru
   textDirection: ltr
 
 apps:
   blog:
     isEnabled: true
-    postsPerPage: 6
+    postsPerPage: 2
 
     post:
       isEnabled: true
